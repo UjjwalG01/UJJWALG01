@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/ujjwalg_01" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalg_01?logo=twitter&style=for-the-badge" alt="ujjwalg_01" /></a> </p>
 
-- 🔭 I’m currently working on **Deerwalk**
+- 🔭 I’m currently training at **Deerwalk**
 
 - 🌱 I’m currently learning **React Native**
 

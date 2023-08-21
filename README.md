@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ug.online.st@gmail.com**
 
-- ⚡ Fun fact **Dream big, not...**
+- ⚡ Fun fact **You came here for nothing...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
